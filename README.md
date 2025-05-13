@@ -24,7 +24,8 @@
  - The result will be displayed.
  - You'll be asked if you want to perform another calculation. Enter 'yes' to continue or 'no' to exit.
 ## Code Snapshot
-      ![image](https://github.com/user-attachments/assets/f475c0e0-c0b2-4f69-9fab-f5af42399541)
+      ![Screenshot 2025-05-14 003735](https://github.com/user-attachments/assets/8791fa15-5129-468b-a774-55a5378e11f2)
+
 
 ## 🖼️ Snapshots of output
       ![Screenshot 2025-05-14 001858](https://github.com/user-attachments/assets/9890310a-c918-463d-8f8d-892ba9cf26eb)
