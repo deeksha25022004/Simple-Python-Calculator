@@ -10,7 +10,7 @@
  - Looping mechanism to perform multiple calculations until the user decides to exit.
     
 ## 🛠️ Technologies & Skills Used
-    Jupyter Notebook & Python
+ Jupyter Notebook & Python
 
 ## 🧾 Usage
  - Upon running the script, you'll be prompted to select an operation:
