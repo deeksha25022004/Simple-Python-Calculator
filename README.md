@@ -24,11 +24,10 @@
  - The result will be displayed.
  - You'll be asked if you want to perform another calculation. Enter 'yes' to continue or 'no' to exit.
 ## Code Snapshot
-      ![Screenshot 2025-05-14 003735](https://github.com/user-attachments/assets/8791fa15-5129-468b-a774-55a5378e11f2)
-
+ ![Screenshot 2025-05-14 003735](https://github.com/user-attachments/assets/8791fa15-5129-468b-a774-55a5378e11f2)
 
 ## 🖼️ Snapshots of output
-      ![Screenshot 2025-05-14 001858](https://github.com/user-attachments/assets/9890310a-c918-463d-8f8d-892ba9cf26eb)
+ ![Screenshot 2025-05-14 001858](https://github.com/user-attachments/assets/9890310a-c918-463d-8f8d-892ba9cf26eb)
 
 ## 📬 Contact
 Made with ❤️ by Deeksha Singh 📧 deeksha25022004@gmail.com
