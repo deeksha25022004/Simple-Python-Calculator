@@ -15,7 +15,7 @@
 ## 🧾 Usage
  - Upon running the script, you'll be prompted to select an operation:
 
-  | 1: Add
+  |1: Add
   | 2: Subtract
   | 3: Multiply
   | 4: Divide
